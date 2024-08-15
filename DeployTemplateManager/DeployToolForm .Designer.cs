@@ -77,7 +77,7 @@
             // 
             lblPublishSite.AutoSize = true;
             lblPublishSite.ForeColor = SystemColors.ControlText;
-            lblPublishSite.Location = new Point(32, 26);
+            lblPublishSite.Location = new Point(32, 23);
             lblPublishSite.Name = "lblPublishSite";
             lblPublishSite.Size = new Size(55, 15);
             lblPublishSite.TabIndex = 3;
@@ -211,7 +211,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 741);
+            ClientSize = new Size(783, 741);
             Controls.Add(label6);
             Controls.Add(textBoxSlotGameBackendRollbackCommitId);
             Controls.Add(label5);
